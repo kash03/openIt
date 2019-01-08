@@ -1,0 +1,19 @@
+/* Global area */
+body{
+	background-image: url(../images/meetup.jpeg);
+}
+
+h1{
+	margin-top:  80px;
+	font-size: 35px;
+	font-weight: 700;
+	color: black;
+	text-align: center;
+	color: #A9A526;
+
+}
+.mov{
+	border: 1px solid blue;
+	margin-top: 250px;
+	margin-left: 550px;
+}
